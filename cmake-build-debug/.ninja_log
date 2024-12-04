@@ -1,0 +1,22 @@
+# ninja log v6
+0	68	1733327040512190763	CMakeFiles/enseashell.dir/time_utils.c.o	b8649f731ea8ba48
+6	66	1733327738999067346	build.ninja	a2023d5f9dc6c3ad
+1	68	1733326279557272666	CMakeFiles/enseashell.dir/main.c.o	b80bdce8411c481c
+60	97	1733324833048049996	CMakeFiles/enseashell.dir/execution.c.o	b28a3a986b9fcc37
+1	68	1733326731742960371	CMakeFiles/enseashell.dir/redirection.c.o	6a7794c2ef3e01c6
+1	63	1733326852631437138	CMakeFiles/enseashell.dir/shell.c.o	d36f8593f888e4ee
+2	84	1733324832992049859	CMakeFiles/enseashell.dir/utils.c.o	d09a7688ae0bd7d2
+68	94	1733327040576191021	enseashell	808655b5412f539e
+0	70	1733327829827445949	CMakeFiles/enseashell.dir/shell.c.o	d36f8593f888e4ee
+2	71	1733327829831445966	CMakeFiles/enseashell.dir/pipe.c.o	4b36246fc746b891
+71	96	1733327829899446249	enseashell	7f58d4d022c560a8
+0	54	1733328069760448616	CMakeFiles/enseashell.dir/shell.c.o	d36f8593f888e4ee
+2	78	1733328069760448616	CMakeFiles/enseashell.dir/pipe.c.o	4b36246fc746b891
+80	110	1733328069840448951	enseashell	7f58d4d022c560a8
+1	64	1733328300509301795	CMakeFiles/enseashell.dir/shell.c.o	d36f8593f888e4ee
+2	133	1733328300509301795	CMakeFiles/enseashell.dir/pipe.c.o	4b36246fc746b891
+133	175	1733328300641302248	enseashell	7f58d4d022c560a8
+1	71	1733329886679432390	CMakeFiles/enseashell.dir/main.c.o	b80bdce8411c481c
+11	86	1733329886687432422	CMakeFiles/enseashell.dir/pipe.c.o	4b36246fc746b891
+7	116	1733329886687432422	CMakeFiles/enseashell.dir/shell.c.o	d36f8593f888e4ee
+116	172	1733329886795432859	enseashell	7f58d4d022c560a8

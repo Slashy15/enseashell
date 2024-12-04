@@ -1,0 +1,11 @@
+build.ninja
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+enseashell
+filetest
+filetext.txt
+Testing
+enseash [exit:0|63ms] % Error: Command doesn't exist, please retry.
+enseash [exit:1|63ms] % Error: Command doesn't exist, please retry.
+enseash [exit:1|63ms] % enseash [exit:1|63ms] % Bye bye!
